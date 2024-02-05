@@ -11,10 +11,10 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             int n = 6;
-            Console.Write(findSum(n));
+            Console.Write(Sum(n));
 
         }
-        static int findSum(int n)
+        static int Sum(int n)
         {
             return n * (n + 1) / 2;
         }
