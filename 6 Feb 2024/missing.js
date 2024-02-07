@@ -1,3 +1,7 @@
+
+//Problem Description no. 1 :.Find the first missing number from array using javascript
+
+
 //Input = [9, 5, 6, 4, 1, 2, 7, 8];
 Output : 3
 

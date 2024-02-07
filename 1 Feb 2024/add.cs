@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Problem Description : Find the contiguous non-empty subarray within an array, A of length N, with the largest sum.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

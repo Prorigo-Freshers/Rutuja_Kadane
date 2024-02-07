@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Problem Description no 2 : Write a program to find sum all Natural numbers from 1 to N where you have to take N as input from user
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

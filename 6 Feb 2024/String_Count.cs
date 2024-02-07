@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Problem Description No 2:Find all character count of given string 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
